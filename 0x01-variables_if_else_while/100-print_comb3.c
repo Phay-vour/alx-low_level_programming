@@ -4,11 +4,11 @@
 
 /**
  * main - Entry point
- *
- * Return: Always 0 on (Scuccess)
+ * Return: Always 0 (Scuccess)
  */
 
 int main(void)
+
 {
 	int d, p;
 	for (d = '0'; d < '9'; d++)
