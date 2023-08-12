@@ -4,11 +4,11 @@
 
 /**
  * main - Entry point 
- *
  * Return: Always 0 on (Scuccess)
  */
 
 int main(void)
+
 {
 	int d;
 	char low;
