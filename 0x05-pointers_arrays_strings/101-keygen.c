@@ -8,7 +8,7 @@
 
 int main(void)
 {
-int r = 0, c = 0;
+		int r = 0, c = 0;
 
 		time_t t;
 
@@ -16,7 +16,6 @@ int r = 0, c = 0;
 		srand((unsigned int) time(&t));
 
 		while (c < 2772)
-
 		{
 
 			r = rand() % 128;
